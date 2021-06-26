@@ -115,6 +115,5 @@ if(BUILD_TESTS)
     add_subdirectory(unittests)
 endif()
 
-add_subdirectory(sandbox)
-
-add_subdirectory(doc)
+#add_subdirectory(sandbox)
+#add_subdirectory(doc)
